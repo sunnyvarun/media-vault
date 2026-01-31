@@ -127,7 +127,7 @@ const LoginPage = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.3 }}
             >
-              Don't have an account? Just enter any id
+              Don't have an account ? Just enter any id
             </motion.div>
           </div>
         </div>
@@ -138,7 +138,7 @@ const LoginPage = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5 }}
         >
-          Your creative journey starts here
+          Your creative journey starts here !
         </motion.div>
       </motion.div>
     </motion.div>
